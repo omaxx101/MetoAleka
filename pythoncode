@@ -1,0 +1,12 @@
+import qrcode
+
+# Replace this with your GitHub Pages URL
+url = "https://metoaleka.github.io/"
+
+# Generate QR code
+qr = qrcode.make(url)
+
+# Save the QR code as an image
+qr.save("Metoaleka.png")
+
+print("QR code saved as github_page_qr.png")
