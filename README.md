@@ -30,17 +30,3 @@ Our official website provides detailed information about our products and servic
 - **Email:** info@metoaleka.com  
 - **Website:** [Meto Aleka](#)  
 
-## Installation and Usage
-To run the website locally:
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/meto-aleka.git
-   ```
-2. Open `index.html` in a web browser.
-
-## Contributing
-We welcome contributions! Feel free to submit pull requests or report issues.
-
-## License
-This project is licensed under the MIT License.
-
